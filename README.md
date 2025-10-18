@@ -1,5 +1,5 @@
 # GAS_DETECTOR
-Gas Detection project I made while attending NAIT
+Gas Detection project I made while attending NAIT, this was my first PCB design ever back in 2022 and it's fun to reflect back on!
 
 This includes the PCB and circuit design I made using KiCad EDA. 
 
