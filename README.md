@@ -9,7 +9,7 @@ Here's how it works:
 
 -Once the sensor detects a certain amount of gas (displayed on an I2C supported LCD), an “alarm” activates (piezo buzzer). The volume of gas is not accurate I believe, as I had problems with determining the calculations
 
--The LCD will display the current volume of gas detected by the gas sensor in PPM
+-The LCD will display the current volume of gas detected by the gas sensor in PPM, made a custom driver for this.
 
 -Push button for Reset
 
